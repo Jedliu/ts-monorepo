@@ -1,0 +1,7 @@
+<script lang="ts">
+	import { meaningOfLife } from '@nighttrax/foo';
+</script>
+
+<h1>Welcome to SvelteKit</h1>
+<div>Meaning of life: {meaningOfLife}</div>
+<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
